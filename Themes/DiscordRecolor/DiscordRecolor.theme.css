@@ -19,10 +19,10 @@
 /* All colors are in RGB format (red, green, blue) use: https://www.google.com/search?q=colorpicker	*/
 
 :root {
-	--font:						"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;		/*	General Font			*/
+	--font:						"Comic sans", "Comic Sans", "Comic Sans", "Comic Sans", "Comic Sans", "Comic Sans";		/*	General Font			*/
 	--settingsicons:			1;						/*	Use Settings Icons in User Settings: 1 = yes, 0 = no						*/
 	
-	--accentcolor: 				88,101,242;				/*	Blurple				 - 	default:	88,101,242		 - 	hex:	#5865f2		*/
+	--accentcolor: 				247,0,245;				/*	Blurple				 - 	default:	88,101,242		 - 	hex:	#5865f2		*/
 	--accentcolor2: 			255,115,250;			/*	Boostpink			 - 	default:	255,115,250		 - 	hex:	#ff73fa		*/
 	--linkcolor: 				0,176,244;				/*	Link Color			 - 	default:	0,176,244		 - 	hex:	#00b0f4		*/
 	--mentioncolor: 			250,166,26;				/*	Highlight Color		 - 	default:	250,166,26		 - 	hex:	#faa61a		*/
